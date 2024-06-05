@@ -21,7 +21,7 @@ module.exports = {
             btnResetPass: 'reset password'
         },
         app: {
-            title: 'Khawin Management System',
+            title: 'Human Resource System ',
             monday: 'Monday',
             tuesday: 'Tuesday',
             wednesday: 'Wednesday',
